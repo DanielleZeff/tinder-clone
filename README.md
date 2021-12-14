@@ -2,5 +2,5 @@
 Projeto desenvolvido em React Native para a disciplina Desenvolvimento Mobile.
 
 
-![Screenshot_2021-12-13-19-51-45-810_com google android apps photos](https://user-images.githubusercontent.com/77025401/145908279-e3610285-cf41-49ea-baee-bf78cd62cbaa.jpg =250x)
-![Screenshot_2021-12-13-19-52-02-118_com google android apps photos](https://user-images.githubusercontent.com/77025401/145908286-5faf5606-8ad6-4257-8bef-eb534c6d6527.jpg =250x)
+![Design sem nome](https://user-images.githubusercontent.com/77025401/145909876-07c38986-66e0-4da1-9e50-c7578ac355e0.png)
+![Design sem nome (1)](https://user-images.githubusercontent.com/77025401/145909884-32a04c97-8726-43fe-b0d8-bcf34b5c4981.png)
